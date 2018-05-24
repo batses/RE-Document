@@ -1,0 +1,42 @@
+=====================================================================
+Possible 'stakeholder' questions
+
+* Could you tell us a little bit more about the Seats and More furniture chain? (Background)
+
+* Could you rate the following features in importance with a rating of 1 to 5?
+- Navigate customers through the store in a personalized manner
+- Avoiding congestions in the store
+- Recommend products to customers based on their interests
+- Recommend alternative products if product is sold out
+- Customers can read products reviews
+- Customers can listen to products reviews
+- Customers can write product reviews
+- Customers are brought together to the physical store to discuss interests over a cup of coffee/tea
+- Customers can place products in a wishlist/shopping cart in the mobile app
+- Customers can buy the products placed in the wishlist/shopping cart via a website
+
+* Business objectives 
+
+* Success metrics
+
+* Would you prefer having the app run on a mobile phone / tablet in the store or on the customers own phone?
+
+* Intelligent lights with colors?
+
+* How should the navigation work exactly? Do we want a map that the users need to look at? Do we want a voice (with headset?) that gives commands to customers and potentially guides them towards the colored lights?
+
+* The recommendations need to be based on something, is there an existing 'client card' system that has saved previous purchases from users? Do we want to keep this system, because we need a way for people to write recomendations. An alternative could be to create an app that takes all the info from the previous 'client card' system and allows users to write recommendations.
+
+* About the shopping cart: You want the users in the physical store to be able to place products in a shopping cart, and then go to a website (still in the physical store) to purchase these products? Customers still have to go to a counter/pick-up point somewhere to get the products, so why not have the purchasing/paying happen there too? What do you see as the added benefit of having a website that customers can use to pay? Is there a reason why you want it to be a website? Can it also just be in the mobile app itself?
+
+* Do you prefer having the reviews for a product come from only the store the customer is currently in, or all reviews of the 8 physical stores of the  Seats and More furniture chain?
+
+* On bringing customers together to discuss interests over a cup of coffee/tea: Do you want this to happen by sending invites over e-mail? How many people would be too few and how many would be too many for the event?
+
+* Time for first release?
+
+* Possible extention to the time?
+
+ 
+
+
