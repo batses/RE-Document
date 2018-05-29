@@ -1,0 +1,65 @@
+Q: Zou je wat meer kunnen vertellen over de achtergrond van Seats and More?
+A: Degene die er mee begonnen is had eerst één winkel met redelijk unieke producten, waar overal een verhaal achter zat, dus geen standaard massa productie. Inmiddels uitgegroeid naar 8 filialen, inmiddels gebleken dat 8 filialen met unieke producten onmogelijk is, dus inmiddels wel veel dezelfde producten. Nog steeds wordt geprobeerd unieke producten aan te bieden. 
+
+Q: Zijn er ook andere investeerders?
+A: Nee, in principe alleen Seats and More zelf.
+
+Q: Doelen (Business Objectives?) 
+A: Natuurlijk meer omzet, over een jaar een groei van 15% omzet kunnen zien.
+
+Q: Andere succes metrics?
+A: Als klant zegt dat het een echte toevoeging is, en als klanten terugkomen omdat de ervaring beter is dan tegenover de website.
+
+Q: Hebben jullie in elke winkel hetzelfde assortiment?
+A: Redelijk hetzelfde assortiment, af en toe zijn er producten die bij sommige winkels uitverkocht zijn maar in principe overal hetzelfde.
+
+Q: Het is dus niet zo dat klanten naar verschillende winkels gaan omdat gedacht wordt dat er verschillende producten liggen?
+A: In principe niet.
+
+Q: Kunt u de features raten in prioriteit?
+A: De product informatie naast de producten zijn een grote prioriteit. De reviews zijn ook heel belangrijk, omdat mensen afgaan van wat andere mensen zeggen. Dus het kunnen zien en zelf schrijven van reviews is belangrijk. Het luisteren kan voor sommige mensen een leuke toevoeging zijn (Note: hier wordt later op teruggekomen!). Het algemene idee van mensen samen laten komen is dat dit niet nodig is. Producten in een wishlist plaatsen is natuurlijk wel nodig omdat mensen moeten kunnen bestellen. 
+
+Q: Hoe belangrijk is het om mensen thuis te kunnen laten betalen?
+A: Dit is wel belangrijk omdat mensen vaak nog even na willen denken, en als ze dan weer speciaal terug naar de winkel zouden moeten is dat een extra drempel.
+
+Q: Hoe ziet u het navigeren van mensen door de winkel voor zich, lampjes kunnen verwarrend zijn, kleuren misschien een oplossing?
+A: Ik kan me dit inderdaad voorstellen, ik vind de reviews belangrijker dan de navigatie. Navigatie is wel interessant maar ook wel lastig omdat mensen vaak lekker zelf willen rondlopen. 
+
+Q: Hoe moet de navigatie er precies gaan uitzien? Is er een navigatie met een kaart?
+A: Áls je de navigatie zou willen uitwerken dan zou ik wel zorgen dat mensen kunnen zien waar bepaalde producten liggen.
+
+Q: Hoe belangrijk is het voorkomen van ontstoppingen?
+A: Wat mij betreft is dit niet zo belangrijk, omdat mensen dit uit zichzelf wel doen.
+
+Q: Is de voorkeur voor telefoons/tablets bij ingang van de winkel of een app op mobiel van klant?
+A: Ik denk dat OOK op eigen telefoon ook leuk is, ik denk dat dat zeker wel mogelijk moet zijn. En als mensen zelf geen telefoon hebben, willen we ook zeker iets kunnen aanbieden om te gebruiken.
+
+Q: De recommendations: bestaat er op dit moment al een soort klantenkaart systeem waarbij purchases worden bijgehouden waar we de recommendations initieel op kunnen baseren?
+A: Nee dit bestaat nog niet.
+
+Q: We nemen aan dat het systeem alle 8 winkels samen moet nemen?
+A: Ik denk dat we het initieel enkel in één winkel het hele systeem implementeren en vervolgens kijken of het interessant genoeg is om ook in de rest te implementeren.
+
+Q: Wanneer willen jullie het in gebruik nemen?
+A: We willen het 1 september in gebruik nemen omdat eind september de drukke periode begint. Eind september is de laatst mogelijke deadline. Er zit dus maar 2-3 weken marge in, maar het liefst gewoon 1 september.
+
+Q: De reviews moeten die van 8 winkels samen of individueel?
+A: Hoe meer reviews hoe beter, dus uiteindelijk kunnen die allemaal samen. (Note: er werd genoemd dat eerst in één winkel het systeem geimplementeerd werd, dus waarschijnlijk in eerste instantie alle reviews ook gebaseerd op deze ene winkel?
+
+Q: Is er een voorkeur tussen reviews ingesproken door klanten zelf of reviews die op worden gelezen d.m.v tts?
+A: tts. Misschien is het luistergedeelte minder interessant.
+
+Q: Hoe ziet de review er precies uit? Iets met scores van 0 tot 5, een verhaaltje, pluspunten/minpunten noemen? 
+A: Voor de winkel is het interessant is een stukje tekst fijn. Maar het moet niet te uitgebreid worden, anders vullen mensen het niet in.
+
+Q: De alternative recommendations in het geval dat een product uitverkocht is, worden deze ook gebaseerd op interests van de specifieke klant of is dit gebaseerd op ideeën van de winkel zelf?
+A: Winkel zelf.
+
+Q: Gebruikt de navigatie pijltjes om klanten te sturen of vertelt een stem waar de klant heen moet?
+A: Ik denk dat het op beeld moet, niet persé met geluiden. 
+
+Q: In het geval dat we al het systeem hebben om reviews te beluisteren, dan zou het een relatief simpele toevoeging zijn deze stem te implementeren.
+A: Ik vind het niet zo'n leuk idee dat mensen met koptelefoons door de winkel lopen. Misschien is het luisteren naar reviews dan toch niet zo'n goed idee(!).
+
+Q: De bedoeling was ook om de klantenkring uit te breiden, is er een bepaalde maatstaf die aangeeft of dit wel of niet gelukt is?
+A: We hopen in ieder geval dat klanten aantallen niet terug lopen. We hopen op een stijging van 10-20%.
